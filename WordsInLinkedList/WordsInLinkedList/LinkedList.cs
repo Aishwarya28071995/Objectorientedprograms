@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SimpleBalancedParenthesis
+namespace WordsInLinkedList
 {
     internal class LinkedList
     {
@@ -12,7 +12,7 @@ namespace SimpleBalancedParenthesis
         public void Add(String data)
         {
             Node node = new Node(data);
-            if (node == null)
+            if(node==null)
             {
                 head = node;
             }
@@ -22,36 +22,32 @@ namespace SimpleBalancedParenthesis
                 head = node;
                 Console.WriteLine(head.data);
             }
-
         }
 
-        public void pop(String data)
+        public String pop(String name)
         {
             if (head == null)
             {
                 Console.WriteLine("List is empty");
-                
+                return null;
             }
             else
             {
                 Node temp = head;
-                Node p = head;
-                // Console.WriteLine(temp.next);
+               // Console.WriteLine(temp.next);
                 while (temp.next != null)
                 {
-                    if (temp.data.CompareTo(data) == ')')
+                    if (temp.data.CompareTo(name)==0)
                     {
-                        p = temp.next;
                         Console.WriteLine(temp.data);
-                        
+                        return temp.data;
 
                     }
                     temp = temp.next;
                 }
 
             }
-            
+            return null;
         }
-    }
     }
 }

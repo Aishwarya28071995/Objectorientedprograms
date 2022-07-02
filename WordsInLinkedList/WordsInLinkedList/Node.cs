@@ -4,17 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SimpleBalancedParenthesis
+namespace WordsInLinkedList
 {
     internal class Node
     {
-        public int data;
+        public String data;
         public Node next;
+
 
         public Node(String data)
         {
             this.data = data;
         }
-
     }
 }
