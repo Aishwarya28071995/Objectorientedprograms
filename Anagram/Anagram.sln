@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddingIntegers", "AddingIntegers\AddingIntegers.csproj", "{A6955B80-6574-4C0C-BEDD-71853C6D304B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagram", "Anagram\Anagram.csproj", "{12A1F213-079D-414F-BDFC-EA7E5357C80B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A6955B80-6574-4C0C-BEDD-71853C6D304B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A6955B80-6574-4C0C-BEDD-71853C6D304B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A6955B80-6574-4C0C-BEDD-71853C6D304B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A6955B80-6574-4C0C-BEDD-71853C6D304B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12A1F213-079D-414F-BDFC-EA7E5357C80B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12A1F213-079D-414F-BDFC-EA7E5357C80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12A1F213-079D-414F-BDFC-EA7E5357C80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12A1F213-079D-414F-BDFC-EA7E5357C80B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D39FF899-57BA-4BD8-A68B-6A6C5CA0E06A}
+		SolutionGuid = {C3E674A9-5C99-42E7-B701-6BB5C61B21A2}
 	EndGlobalSection
 EndGlobal
