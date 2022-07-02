@@ -1,0 +1,16 @@
+F:\Assignment16\AddingIntegers\AddingIntegers\bin\Debug\net5.0\AddingIntegers.exe
+F:\Assignment16\AddingIntegers\AddingIntegers\bin\Debug\net5.0\AddingIntegers.deps.json
+F:\Assignment16\AddingIntegers\AddingIntegers\bin\Debug\net5.0\AddingIntegers.runtimeconfig.json
+F:\Assignment16\AddingIntegers\AddingIntegers\bin\Debug\net5.0\AddingIntegers.runtimeconfig.dev.json
+F:\Assignment16\AddingIntegers\AddingIntegers\bin\Debug\net5.0\AddingIntegers.dll
+F:\Assignment16\AddingIntegers\AddingIntegers\bin\Debug\net5.0\AddingIntegers.pdb
+F:\Assignment16\AddingIntegers\AddingIntegers\obj\Debug\net5.0\AddingIntegers.csproj.AssemblyReference.cache
+F:\Assignment16\AddingIntegers\AddingIntegers\obj\Debug\net5.0\AddingIntegers.GeneratedMSBuildEditorConfig.editorconfig
+F:\Assignment16\AddingIntegers\AddingIntegers\obj\Debug\net5.0\AddingIntegers.AssemblyInfoInputs.cache
+F:\Assignment16\AddingIntegers\AddingIntegers\obj\Debug\net5.0\AddingIntegers.AssemblyInfo.cs
+F:\Assignment16\AddingIntegers\AddingIntegers\obj\Debug\net5.0\AddingIntegers.csproj.CoreCompileInputs.cache
+F:\Assignment16\AddingIntegers\AddingIntegers\obj\Debug\net5.0\AddingIntegers.dll
+F:\Assignment16\AddingIntegers\AddingIntegers\obj\Debug\net5.0\refint\AddingIntegers.dll
+F:\Assignment16\AddingIntegers\AddingIntegers\obj\Debug\net5.0\AddingIntegers.pdb
+F:\Assignment16\AddingIntegers\AddingIntegers\obj\Debug\net5.0\AddingIntegers.genruntimeconfig.cache
+F:\Assignment16\AddingIntegers\AddingIntegers\obj\Debug\net5.0\ref\AddingIntegers.dll
