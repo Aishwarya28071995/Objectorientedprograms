@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagram", "Anagram\Anagram.csproj", "{12A1F213-079D-414F-BDFC-EA7E5357C80B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{35F73736-1D2D-44E7-ADAE-5D9D4F69990B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{12A1F213-079D-414F-BDFC-EA7E5357C80B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{12A1F213-079D-414F-BDFC-EA7E5357C80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{12A1F213-079D-414F-BDFC-EA7E5357C80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{12A1F213-079D-414F-BDFC-EA7E5357C80B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35F73736-1D2D-44E7-ADAE-5D9D4F69990B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35F73736-1D2D-44E7-ADAE-5D9D4F69990B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35F73736-1D2D-44E7-ADAE-5D9D4F69990B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35F73736-1D2D-44E7-ADAE-5D9D4F69990B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C3E674A9-5C99-42E7-B701-6BB5C61B21A2}
+		SolutionGuid = {9C697916-EA5E-46D6-8CF2-8045BFA82998}
 	EndGlobalSection
 EndGlobal
